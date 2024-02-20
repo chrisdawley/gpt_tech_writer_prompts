@@ -1,0 +1,15 @@
+You've been tasked with authoring a reference topic in DITA (Darwin Information Typing Architecture) for a generic software feature as part of a technical documentation project. Your objective is to provide comprehensive and structured information about the feature to assist users in understanding its functionality and usage.
+
+Your reference topic should cover:
+
+Feature Overview: Provide a brief introduction to the software feature, outlining its purpose and how it enhances the user experience.
+
+Syntax: Present the syntax or command structure associated with the feature, including any required parameters, options, or arguments.
+
+Usage: Explain how to use the feature effectively, covering common use cases, scenarios, and best practices. Include examples wherever possible to illustrate usage.
+
+Parameters/Options: List and describe all parameters, options, or configurations applicable to the feature, along with their respective descriptions and usage guidelines.
+
+Related Features: Mention any related features, functionalities, or commands that users may find relevant or complementary to the feature being documented.
+
+Ensure that your content follows DITA best practices, such as modularization, consistency, and clarity, to facilitate content reuse and maintainability.

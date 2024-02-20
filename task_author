@@ -1,0 +1,17 @@
+You've been assigned the task of creating a task topic in DITA (Darwin Information Typing Architecture) for a generic software feature as part of a technical documentation project. Your objective is to provide users with clear and step-by-step instructions on how to perform a specific task using the feature.
+
+Your task topic should cover:
+
+Task Title: Provide a descriptive and concise title that clearly indicates the task users will learn to perform.
+
+Introduction: Briefly introduce the task and its significance, explaining why users might need to perform it and what outcomes they can expect.
+
+Prerequisites: Outline any prerequisites or requirements users need to fulfill before they can proceed with the task. This may include having certain permissions, installing specific software, or meeting other dependencies.
+
+Steps: Present the task as a series of sequential steps, each clearly defined and easy to follow. Use action-oriented language and include any necessary commands, clicks, or inputs users need to make.
+
+Expected Outcome: Describe the expected outcome or result of successfully completing the task, helping users understand what they should expect to achieve.
+
+Troubleshooting: Anticipate and address common issues or challenges users may encounter while performing the task. Provide troubleshooting tips, error messages, or alternative solutions as necessary.
+
+Ensure that your task topic adheres to DITA best practices, including modularity, consistency, and usability, to empower users to accomplish their goals effectively.
