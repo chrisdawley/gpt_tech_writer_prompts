@@ -3,7 +3,7 @@ This is a series of prompts for feeding context into a generative AI chatbot. Th
 
 tech_writer_resume: Provides the role for a technical writer with experience in software documentation
 
-outline author: Prompts for a series of zero-shot requests that will step you through creating a list of tasks from a source document
+outline_author: Prompts for a series of requests that will step you through creating a list of tasks from a source document
 
 concept_author: Prompts for authoring conceptual information
 
