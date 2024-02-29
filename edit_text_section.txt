@@ -1,4 +1,3 @@
-GPT
 Prompt for Editing a Section of Text for Style and Grammar
 Context:
 You have drafted a section of text intended for a professional report or document. This text needs to be polished to ensure it meets high standards of clarity, coherence, and professionalism. The draft may contain complex ideas that need to be conveyed concisely and clearly, with a focus on maintaining a formal tone throughout. The text may also include industry-specific terminology that should be accurately used and explained if necessary for a broader audience.
@@ -9,7 +8,7 @@ To refine and edit the provided text section, enhancing its style and correcting
 Resume of Text Section for Editing:
 Original Text Section:
 
-"In today's rapidly evolving tech landscape, businesses are increasingly leaning towards the adoption of agile methodologies to streamline their operations and enhance productivity. Despite the apparent benefits, a considerable number of organizations struggle with the implementation of such practices, primarily due to a lack of understanding and resistance to change from their teams. This scenario not only hampers the potential for growth but also puts the company at a significant disadvantage in the competitive market. It's imperative that businesses not only recognize the importance of agile methodologies but also invest in training and development programs to facilitate a smooth transition and adoption process."
+{PLACE TEXT TO EDIT HERE IN QUOTES}
 
 Instructions for ChatGPT:
 Clarify and Streamline: Simplify complex sentences without losing the intended meaning. Ensure the text flows logically from one idea to the next, improving readability.
