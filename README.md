@@ -10,3 +10,5 @@ concept_author: Prompts for authoring conceptual information
 task_author: Prompts for authoring task-based information that includes pre- and post-requisites.
 
 reference_author: Prompts for assisting an AI in creating reference content in technical documentation.
+
+edit_text_section: Prompts your GPT to edit a section of text using best practices. Has a section in the middle that can contain the text you want the GPT to edit. 
